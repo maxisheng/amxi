@@ -12,8 +12,10 @@ I add a new branch
 £¤£¤£¤£¤£¤£¤£¤£¤
 
 
-this is branch1, time is 10:07
 
 this is master, time is 10:08
+
+this is branch1, time is 10:07
+
 
 
