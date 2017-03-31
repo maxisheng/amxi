@@ -11,9 +11,9 @@ I add a new branch
 
 £¤£¤£¤£¤£¤£¤£¤£¤
 
-<<<<<<< HEAD
+
 this is master, time is 10:08
-=======
+
 this is branch1, time is 10:07
->>>>>>> refs/remotes/origin/branch2
+
 
