@@ -7,15 +7,15 @@ echo "hello world";
 I add a new branch
 
 
-═°║ь
+├Н├╕┬║├м
 
-гдгдгдгдгдгдгдгд
+┬г┬д┬г┬д┬г┬д┬г┬д┬г┬д┬г┬д┬г┬д┬г┬д
 
 
 
 this is master, time is 10:08
 
 this is branch1, time is 10:07
-
+I edit this file on network.
 
 
